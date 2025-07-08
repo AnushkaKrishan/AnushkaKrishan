@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack
 
 **Languages**:  
-`JavaScript` `C++` `C` `MySQL`
+`JavaScript` `TypeScript` `C++` `C` `MySQL`
 
 **Frontend**:  
 `React.js` `HTML` `CSS` `Javascript`
